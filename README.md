@@ -29,6 +29,14 @@ To protect the integrity of Chirper's software, **the source code is not publicl
 
 If you're still uncomfortable installing the app, all features are available through our Discord bot's slash commands.
 
+## Support & Resources
+If at any time you need support or have any questions with the desktop app, please contact our dedicated Support team through our [Discord server](https://discord.gg/npa6eSxjc2).
+
+- **Website:** https://chirper.app
+- **Discord Server:** https://discord.gg/npa6eSxjc2
+- **Web Dashboard:** https://chirper.app/dashboard
+- **Bot Invite:** https://chirper.app/invite
+
 ## Disclaimer
 
 By downloading and utilizing any Chirper service, including our Desktop app, you agree to our [Terms of Service](https://chirper.app/terms) and [Privacy Policy](https://chirper.app/privacy).
