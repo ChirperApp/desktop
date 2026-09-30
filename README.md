@@ -13,9 +13,9 @@ Welcome to Chirper's official desktop overlay. This app allows users to post and
 
 To get started, select the correct installation package below:
 
-- [**macOS ARM64**](https://github.com/ChirperApp/desktop/releases/latest/download/macos-arm64.dmg) — select this if you have an M-series Mac, including M1, M2, M3, M4, or M5
-- [**macOS x64**](https://github.com/ChirperApp/desktop/releases/latest/download/macos-x64.dmg) — select this if you have an older Intel-based Mac
-- [**Windows**](https://github.com/ChirperApp/desktop/releases/latest/download/windows.exe) — select this if you have a Windows laptop or PC
+- [**macOS ARM64**](https://github.com/ChirperApp/desktop/releases/latest/download/chirper-macos-arm64.dmg) — select this if you have an M-series Mac, including M1, M2, M3, M4, or M5
+- [**macOS x64**](https://github.com/ChirperApp/desktop/releases/latest/download/chirper-macos-x64.dmg) — select this if you have an older Intel-based Mac
+- [**Windows**](https://github.com/ChirperApp/desktop/releases/latest/download/chirper-windows.exe) — select this if you have a Windows laptop or PC
 
 Linux and other operating systems are not supported at this time.
 
